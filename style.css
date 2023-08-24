@@ -1,0 +1,25 @@
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+  list-style: none;
+  
+}
+
+body {
+  background-color: #121214 ;
+  
+}
+
+h1,p, h2 {
+  color: azure;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 3px;
+}
+
+code {
+  color: rgb(148, 248, 255);
+}
+
